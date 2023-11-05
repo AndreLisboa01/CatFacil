@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "poised-trail-402218",
+  "private_key_id": "7cff43caf79c9dc518c99a83a9af1395f949d709",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC88ZtyI7FOqmDS\nUiE8jMOffazBlpCbgwBqiP3B7Puv20pPyB/81881Jeb1u6alhv5TY4m3CeksPOFS\nQGgjA1Qsiff8nuA+o/g3mBE72wYHa6xVM3utZLXrdK6dL69fUJVReocq+piigKOb\n0Flhq5TK1b6J8Di2mBonPuigB9IM/cTkd719J65EkWm6wpE47LrF43AHk0Clptg7\nXSzSwY1NUuYFm06hkZkhEKXRHF6L4XLK7OI3fDs7xixOXcF1O/ajGAFgTaMzX0Z5\n80e2E/CT60i9pby11IqIuy6IUER6TnsMNrW7psjjttT1W5lqlV1SN7+BfDodmque\n8vusfO8fAgMBAAECggEAAyPZYv7Od7MbN9IzYge5+z9Vah0/9s8NTG+bevXyQzQo\nnV6vsTs5XVzRpzaOpeW37rOr5CDec0YKyNktNr4vDMhEYSmXNc5soOX7s9wa6Sz2\n5fFqgUTqLrcQeEQP2W3oFhBTVyM7EVPzk20NPBd0nkFi/UhZBc70ZbS0Q+mg1ohc\ncwq+2Vwrp3oa9BHTgdU8KwY9zbzsFvyb4fld3EDNoEJoe1QIz0Hz2Z2VLv0Hi75K\nXXGE58gGMMVuHYu3dt4I2tbcK2w7ZGRGEKsE/tPsDFWc4rE9hNtd3ApIRFGOFG9T\ncvOJ4bw90y6o+IGS7B1fYE1slszeCpXKBw8bTX0B8QKBgQD7HBumxPACj5kCwAeW\nU9lkGWUAeiXpP5HJBxbHsZXOReSsDD7+8UAgMDIG3w4jQhu3eLxQ+uzgItDXE+y6\n4zNdW+EqfKfTRu2GDvpixQ4Cs2qt1wPEWS61TwL7563DM2spKdqKXfZEgavNEadf\n6sDu2swLvU7/J7XzUnulrwbTMQKBgQDAn5MPCQ7lsqAT0GW82KskSu+Fz1hXGSZ1\nNvnAxOCPZa+WyCPvOI1c+uUwJAjNWxJDuvHlmnY2brtQSawLkYM9eLj0jQaol0SU\n/oJ4QO6wWjPeCWpVEcrWYbhz3qRID6TR7H2GEzUZX6KFujKjuJHlObJdKSTaFkr5\nTx4ACH8zTwKBgQDuswdt/iMQrCQNQzFzKv2pc6JZU8OZ973DVKPI6/y1eicnjPSN\nMBN/BZFoirxLs9nZDEIm0IA/h5jx+pS8CqGXC3H9C0YVRoUfPDmzjhIFazvrSEri\naMxHuXXis5avyb8CADEn+q3Q7Vq8sx1hxivkYcQ5HJltXvhM9olnM/vO4QKBgCHV\n5gcmGC/RCL1yRey+QpHFd/2RRntGN7MvTP/HlYqa2hUqYuWKkYpbqBakvccU0EiF\ndihW0Z0OJmkcB9SgYuVRZ2vNufWzXKCvdEubXFIuBh5imQMIdRDjaXsxCLp/xPv7\nBrGefh1O50WGR47qxPX3BJXIvGhysgjJFQP8ehuRAoGAA6RaQ/lfaMQFwI8WK0Fc\nO4AF0Ja/dwikhfdjMdhSL8oI1H2EuFEV17BfAgF2s9Q/vyLcT+HnP7w/L5wkpK1q\nL8wMwWdX02R41X74xOGvPFtfPPEUSz9aV+Ep2k8Mc6UvuRzLck6yKaxsJRIWHlmB\n9DkzGzYowpU5+zThZ3hFmnI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "andr-lisboa@poised-trail-402218.iam.gserviceaccount.com",
+  "client_id": "100368519893901427741",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/andr-lisboa%40poised-trail-402218.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
